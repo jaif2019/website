@@ -4,16 +4,14 @@
 
 * Inscription
 
-Le protocole d'inscriptions sera mis en ligne très prochainement.
-Stay tuned!
+Les inscriptions sont ouvertes jusqu'au 15 mai.
+
+La journée est gratuite mais les inscriptions sont obligatoires et le
+nombre de participants est limité à la capacité d'accueil de la salle.
+
+Pour vous inscrire, complétez [[https://framaforms.org/jaif-2019-inscription-1549903999][le formulaire à cette adresse]].
 
 Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr?subject=%5Binscription%5D][jaif2019@saxifrage.saclay.cea.fr]]
-
-
-# Les inscriptions sont ouvertes jusqu'au 15 mai.
-
-# La journée est gratuite mais les inscriptions sont obligatoires et le
-# nombre de participants est limité à la capacité d'accueil de la salle.
 
 # Pour vous inscrire, envoyez un mail à [[mailto:jaif2019@saxifrage.saclay.cea.fr?subject=%5Binscription%5D][jaif2019@saxifrage.saclay.cea.fr]]
 # avec comme objet =[inscription]=. Votre inscription vous sera
