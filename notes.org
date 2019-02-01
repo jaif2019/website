@@ -1,0 +1,6 @@
+* liste TODOs
+
+******** TODO update assets/txt
+    :PROPERTIES:
+  :TRIGGER:  chain-find-next(TODO,todo-only)
+  :END:

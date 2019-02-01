@@ -1,0 +1,12 @@
+/* TEAM */
+Name: Damien Couroussé
+Site: damien.courousse.fr
+Location: Grenoble, France
+
+/* THANKS */
+Name: Jasper Van der Jeugt (http://jaspervdj.be) for hakyll
+
+/* SITE */
+Last update: 2014-11-28
+Standards: HTML5, CSS3
+Software: hakyll, vim
