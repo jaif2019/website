@@ -1,0 +1,22 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2019
+
+* Inscription
+
+Les inscriptions sont ouvertes, et seront fermées le 22 mai.
+
+La journée est gratuite mais les inscriptions sont obligatoires et limitées.
+
+Pour s’inscrire, il faut envoyer un mail à jaif@lip6.fr avec comme
+object inscription. Votre inscription vous sera confirmée.
+
+
+******** TODO date de fermeture des inscriptions
+    :PROPERTIES:
+  :TRIGGER:  chain-find-next(TODO,todo-only)
+  :END:
+******** TODO  mail de contact pour les inscriptions
+         :PROPERTIES:
+         :TRIGGER:  chain-find-next(TODO,todo-only)
+         :END:
