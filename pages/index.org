@@ -47,11 +47,6 @@ Cette journée est financée par :
 + le GT Sécurité des Systèmes Matériels commun au GDR SoC2 et au GDR Sécurité Informatique
 
 
-[CEA]: http://www.cea.fr/technologies
-[LIST]: http://www-list.cea.fr
-[CEA Grenoble]: http://www.cea.fr/le-cea/les-centres-cea/grenoble
-
-
 #+BEGIN_EXPORT html
 <p>
 <img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" />
