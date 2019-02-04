@@ -1,0 +1,35 @@
+---
+title: JAIF 2019
+---
+
+* Programme
+
+
+
++   09h30–10h00 - Accueil des participants autour d’un café
+
+
++ 10h00–10h15  - Mot des organisateurs
++ Session *SESSION1*
+
+  + 10h15–10h45 : SLOT1.1
+  + 10h45–11h15 : SLOT1.2
+  + 11h15–11h45 : SLOT1.3
+  + 11h45–12h15 : SLOT1.4
+
++    12h30–14h00 - Déjeuner – discussion
+
++ Session *SESSION2*
+
+    + 14h00–14h30 - SLOT2.1
+    + 14h30–15h00 - SLOT2.2
+    + 15h00–15h30 - SLOT2.3
+
+
+
++ 15h30–15h45 - Pause
+
+
++ Session *SESSION3*
+    + 15h45–16h15 : SLOT3.1
+    + 16h15–16h45 : SLOT3.2
