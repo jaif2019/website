@@ -23,6 +23,7 @@ main = do
             , "css/*"
             , "css/layouts/*"
             , "img/*"
+            , "js/*"
             , "media/*"
           ]
 
