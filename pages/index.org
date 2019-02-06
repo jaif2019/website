@@ -32,11 +32,11 @@ Cette journée vise à aborder  et à favoriser les discussions sur l’ensemble
 
 Cette journée est organisée par :
 
-+   Sylvain Guilley, Telecom ParisTech / Secure-IC
-+   Karine Heydemann, Sorbonne Université / LIP6
-+   Marie-Laure Potet, Grenoble Alpes Cybersecurity Institute / Vérimag
-+   Guillaume Bouffard,  ANSSI
 +   Damien Couroussé, CEA
++   Guillaume Bouffard,  ANSSI
++   Karine Heydemann, Sorbonne Université / LIP6
++   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
++   Sylvain Guilley, Telecom ParisTech / Secure-IC
 
 ** Soutien financier
 
