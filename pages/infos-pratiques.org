@@ -1,0 +1,20 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2019
+
+* Informations pratiques
+
+La journée se tiendra à la maison Minatec.
+
+
+Date:  la journée aura lieu le [[./index.html][jeudi 23 mai, de 10h00 à 17h00]].
+
+Lieu: Maison Minatec.  3 Parvis Louis Néel - 38054 Grenoble.
+[[https://www.minatec.org/fr/plan-dacces/][Plan d'accès.]]
+
+Depuis la gare SCNF, l'accès à la maison Minatec peut se faire en
+tramway (5 min.), à pied (10 min.) ou en taxi (5 min.).
+
+#+BEGIN_EXPORT html
+<p><img class="pure-img" src="media/Minatec-acces.png" /></p>
+#+END_EXPORT
