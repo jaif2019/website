@@ -53,6 +53,8 @@ Cette journée est financée par :
 
 <img src="./media/Logo_IRT_haute-def-cropped-800.png" alt="Logo IRT NanoElec" title="IRT NanoElec" data-align="center" height="100" />
 
+<img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" />
+
 <img src="./media/cyber_logo.svg" alt="Logo GACI" title="GACI" data-align="center" height="100" />
 </p>
 #+END_EXPORT
