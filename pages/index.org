@@ -1,3 +1,4 @@
+#+STARTUP: showall
 #+OPTIONS: toc:nil
 #+title: JAIF 2019
 
@@ -44,8 +45,7 @@ Cette journée est financée par :
 
 + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
 + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
-+ le GT Sécurité des Systèmes Matériels commun au GDR SoC2 et au GDR Sécurité Informatique
-
+# + le GT Sécurité des Systèmes Matériels commun au GDR SoC2 et au GDR Sécurité Informatique
 
 #+BEGIN_EXPORT html
 <p>
