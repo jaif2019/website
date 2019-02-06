@@ -4,19 +4,12 @@
 
 * Inscription
 
-Les inscriptions sont ouvertes, et seront fermées le 22 mai.
+Les inscriptions sont ouvertes jusqu'au 15 mai.
 
-La journée est gratuite mais les inscriptions sont obligatoires et limitées.
+La journée est gratuite mais les inscriptions sont obligatoires et le
+nombre de participants est limité à la capacité d'accueil de la salle.
 
-Pour s’inscrire, il faut envoyer un mail à jaif@lip6.fr avec comme
-object inscription. Votre inscription vous sera confirmée.
-
-
-******** TODO date de fermeture des inscriptions
-    :PROPERTIES:
-  :TRIGGER:  chain-find-next(TODO,todo-only)
-  :END:
-******** TODO  mail de contact pour les inscriptions
-         :PROPERTIES:
-         :TRIGGER:  chain-find-next(TODO,todo-only)
-         :END:
+Pour s’inscrire, envoyez un mail à
+[[mailto:jaif2019@saxifrage.saclay.cea.fr?subject=%5Binscription%5D][jaif2019@saxifrage.saclay.cea.fr]] avec comme objet
+=[inscription]=. Votre inscription vous sera confirmée par retour de
+mail.
