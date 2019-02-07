@@ -1,8 +1,14 @@
----
-title: JAIF 2019
----
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2019
 
 * Programme
+
+Le programme de la journée est aménagé pour maximiser les interactions
+entre les participants.  Les présentations de chaque session auront
+vocation à être ouvertes aux interactions avec l'assemblée, et un
+temps de questions et de discussions sera réservé à la fin de chaque
+session.
 
 + 09h30–10h00 - Accueil des participants autour d’un café
 
