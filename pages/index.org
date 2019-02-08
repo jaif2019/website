@@ -2,23 +2,21 @@
 #+OPTIONS: toc:nil
 #+title: JAIF 2019
 
-* Injection de fautes : attaques physiques, contre-mesures, et mécanismes d’évaluation de la robustesse
+* Journée thématique sur les attaques par injection de fautes
+# : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
 
-Journée thématique -- Jeudi 23 mai 2019, Minatec, Grenoble
+Jeudi 23 mai 2019, Minatec, Grenoble
 
 ** Description
 
-Cette journée s’inscrit dans la suite de la journée [[http://sertif-projet.forge.imag.fr/fr/pages/workshop.html][SERTIF]] organisée
+Cette journée s’inscrit dans la suite de la journée [[https://www-verimag.imag.fr/~potet/Sertif/pages/workshop.html][SERTIF]] organisée
 en 2016 à Grenoble,
 puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
 
-Cette journée est un évènement associé au GT Sécurité des Systèmes
-Matériels commun au GDR SoC2 et au GDR Sécurité Informatique.
-
 Ce workshop a pour objectif de réunir la communauté de la recherche
 française en analyse de fautes sur des systèmes de sécurité, pour
-consolider ce savoir-faire et pour faire émerges des recherches plus
-globales.  Cette communauté est très avancée sur le plan mondial, et
+consolider ce savoir-faire et pour faire émerger des recherches plus
+globales.  Notre communauté est très avancée sur le plan mondial, et
 travaille sur des aspects variés :
 
 + attaques à l'aide d'injection de fautes, et modèles de fautes,
@@ -31,21 +29,22 @@ travaille sur des aspects variés :
 + etc.
 
 
-En parallèle, le contexte des systèmes embarqués sécurisés évolue
-assez rapidement, et il est important d’envisager l’évolution des
-attaques mais aussi des systèmes. Aujourd’hui, il y a un changement de
-paradigme pour aller des systèmes fermés vers des systèmes ouverts,
-qui implémentent des TEE (Trusted Execution Environments). Egalement,
-les injections de fautes deviennent plus complexes, avec par exemple
-la possibilité de réaliser des injections multiples.
+Le contexte des systèmes embarqués sécurisés évolue
+rapidement, et il est important d’envisager l’évolution des
+attaques mais aussi des systèmes.
+On assiste aujourd’hui à un changement de paradigme pour aller de
+systèmes fermés, tels que la carte à puce, vers des systèmes ouverts qui
+embarquent des enclaves sécurisées (e.g. Trusted Execution
+Environments).  Également, les attaques exploitant les injections de
+fautes deviennent plus complexes, avec par exemple la possibilité de
+réaliser des injections multiples ou la combinaison avec des
+observations de canaux cachés.
 
-Cette journée vise à aborder et à favoriser les discussions sur
+Le [[./programme.html][programme de cette journée]] est construit de sorte à favoriser les échanges entre les participants sur
 l’ensemble de ces sujets, au travers de présentations et de
-discussions entre les participants.
+discussions.
 
-** Organisateurs
-
-Cette journée est organisée par :
+** Comité d'organisation
 
 +   Damien Couroussé, CEA
 +   Guillaume Bouffard,  ANSSI
@@ -53,7 +52,10 @@ Cette journée est organisée par :
 +   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
 +   Sylvain Guilley, Telecom ParisTech / Secure-IC
 
-** Soutien financier
+** Soutien
+
+Cette journée est un évènement associé au GT Sécurité des Systèmes
+Matériels commun au GDR SoC2 et au GDR Sécurité Informatique.
 
 Cette journée est financée par :
 
