@@ -52,6 +52,8 @@ discussions.
 +   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
 +   Sylvain Guilley, Telecom ParisTech / Secure-IC
 
+Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr][jaif2019@saxifrage.saclay.cea.fr]]
+
 ** Soutien
 
 Cette journée est financée par :
