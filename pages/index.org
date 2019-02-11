@@ -54,14 +54,10 @@ discussions.
 
 ** Soutien
 
-Cette journée est un évènement associé au GT Sécurité des Systèmes
-Matériels commun au GDR SoC2 et au GDR Sécurité Informatique.
-
 Cette journée est financée par :
 
 + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
 + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
-# + le GT Sécurité des Systèmes Matériels commun au GDR SoC2 et au GDR Sécurité Informatique
 
 #+BEGIN_EXPORT html
 <p>
@@ -69,7 +65,6 @@ Cette journée est financée par :
 
 <img src="./media/Logo_IRT_haute-def-cropped-800.png" alt="Logo IRT NanoElec" title="IRT NanoElec" data-align="center" height="100" />
 
-<img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" />
 
 <img src="./media/cyber_logo.svg" alt="Logo GACI" title="GACI" data-align="center" height="100" />
 </p>
