@@ -10,38 +10,59 @@ vocation à être ouvertes aux interactions avec l'assemblée, et un
 temps de questions et de discussions sera réservé à la fin de chaque
 session.
 
-+ 09h30–10h00 - Accueil des participants autour d’un café
+Le programme sera bientôt mis en ligne.
 
-+ 10h00–10h15  - Mot des organisateurs
-+ 10h15-11h30 : Session 1
+La journée débutera à 09h30, et le calendrier des présentations et des discussions
+scientifiques s'étalera de 10h00 à 16h45.
 
-  + slot 1.1
-  + slot 1.2
-  + slot 1.3
-  + Questions et discussions autour des présentations de la session
 
-+ 11h30-11h45 : pause
 
-+ 11h45-13h00 : Session 2
-  + slot 2.1
-  + slot 2.2
-  + slot 2.3
-  + Questions et discussions autour des présentations de la session
+La liste des orateurs ayant déjà accepté de faire une présentation est
+la suivante :
 
-+ 13h00–14h00 - Buffet
+| Thématique                                            | orateur                                            |
+|-------------------------------------------------------+----------------------------------------------------|
+| Injection laser (rejeu de HOST 2919)                  | Jean-Max Dutertre, EMSE Gardanne & al.             |
+| Injection EM                                          | Philippe Maurinne, LIRMM                           |
+| Analyse de fautes au niveau RTL                       | Vincent Béroulle, LCIS Valence                     |
+| Analyse de robustesse de codes binaires               | Jean-Baptiste Bréjon & Karine Heydemann, LIP6      |
+| Techniques d'analyse statique de code                 | David Féliot, CEA, CESTI Grenoble                  |
+| Compilation de contre-mesures                         | François de Ferrière, STMicroelectronics Grenoble  |
+| Sécurisation automatisée des boucles à la compilation | Julien Proy, INVIA & Karine Heydemann, LIP6        |
+| Outils pour la sécurité des systèmes embarqués        | Marie-Laure Potet, VERIMAG & Damien Couroussé, CEA |
 
-+ 14h00-15h15 : Session 3
-  + slot 3.1
-  + slot 3.2
-  + slot 3.3
-  + Questions et discussions autour des présentations de la session
+# + 09h30–10h00 - Accueil des participants autour d’un café
 
-+ 15h15-15h30 : pause
+# + 10h00–10h15  - Mot des organisateurs
+# + 10h15-11h30 : Session 1
 
-+ 15h30-16h30 : Session 4
-  + slot 4.1
-  + slot 4.2
-  + slot 4.3
-  + Questions et discussions autour des présentations de la session
+#   + slot 1.1
+#   + slot 1.2
+#   + slot 1.3
+#   + Questions et discussions autour des présentations de la session
 
-+ 16h30-16h45 : conclusion de la journée
+# + 11h30-11h45 : pause
+
+# + 11h45-13h00 : Session 2
+#   + slot 2.1
+#   + slot 2.2
+#   + slot 2.3
+#   + Questions et discussions autour des présentations de la session
+
+# + 13h00–14h00 - Buffet
+
+# + 14h00-15h15 : Session 3
+#   + slot 3.1
+#   + slot 3.2
+#   + slot 3.3
+#   + Questions et discussions autour des présentations de la session
+
+# + 15h15-15h30 : pause
+
+# + 15h30-16h30 : Session 4
+#   + slot 4.1
+#   + slot 4.2
+#   + slot 4.3
+#   + Questions et discussions autour des présentations de la session
+
+# + 16h30-16h45 : conclusion de la journée

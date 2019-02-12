@@ -7,7 +7,7 @@
 La journée se tiendra à la maison Minatec.
 
 
-Date:  la journée aura lieu le [[./index.html][jeudi 23 mai, de 10h00 à 17h00]].
+Date:  la journée aura lieu le [[./index.html][jeudi 23 mai, de 09h30 à 17h00]].
 
 Lieu: Maison Minatec.  3 Parvis Louis Néel - 38054 Grenoble.
 [[https://www.minatec.org/fr/plan-dacces/][Plan d'accès.]]
