@@ -60,15 +60,34 @@ Cette journée est financée par :
 
 + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
 + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
++ l'[[https://www.ssi.gouv.fr][ANSSI]]
+
+Cette journée thématique est associée au GT Sécurité des Systèmes
+Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
+[[https://gdr-securite.irisa.fr][pré-GdR Sécurité Informatique]].
 
 #+BEGIN_EXPORT html
 <p>
-<img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" />
+<a href="http://www.cea-tech.fr">
+<img src="./media/logo_CEA.png" alt="Logo CEA" title="CEA" data-align="center" height="100" /></a>
 
-<img src="./media/Logo_IRT_haute-def-cropped-800.png" alt="Logo IRT NanoElec" title="IRT NanoElec" data-align="center" height="100" />
+<a href="http://www.irtnanoelec.fr">
+<img src="./media/Logo_IRT_haute-def-cropped-800.png" alt="Logo IRT NanoElec" title="IRT NanoElec" data-align="center" height="100" /></a>
 
+<a href="https://ssi.gouv.fr">
+<img src="./media/logo_anssi.png" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
 
-<img src="./media/cyber_logo.svg" alt="Logo GACI" title="GACI" data-align="center" height="100" />
+<a href="https://gdr-securite.irisa.fr">
+<img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" /></a>
+
+<a href="https://gdr-securite.irisa.fr/index.html"><img
+     src="./media/GDR_logo_04-vecto-01.png" alt="Logo GDR sécurité"
+     title="GDR Sécurité Informatique"
+     data-align="center" height="100" /></a>
+
+<a href="https://cybersecurity.univ-grenoble-alpes.fr">
+<img src="./media/cyber_logo.svg" alt="Logo GACI" title="cyber@Alps" data-align="center" height="100" /></a>
+
 </p>
 #+END_EXPORT
 
