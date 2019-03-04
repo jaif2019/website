@@ -27,8 +27,8 @@ présentations déjà prévues est la suivante :
 + [[#nxp][Fault attacks: What practical exploits on IoT?]]
    /Éric Vétillard (NXP)/
 + [[#stm][Compilation de contre-mesures]] /François de Ferrière (STMicroelectronics)/
-+ [[#cesti][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
-+ [[#cesti][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
++ [[#invia][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
++ [[#cea-feliot][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
                  /David Féliot (CEA Grenoble)/
 + [[#lip6][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
 + [[#cea-dsys][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
@@ -53,7 +53,7 @@ Résumé à venir.
 
 *** Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code
     :PROPERTIES:
-    :CUSTOM_ID: cesti
+    :CUSTOM_ID: cea-feliot
     :END:
 
 /David Féliot (CEA Grenoble)/
