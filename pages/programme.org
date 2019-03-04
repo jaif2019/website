@@ -16,7 +16,6 @@ scientifiques s'étalera de 10h00 à 16h45.
 Le programme de la journée est en construction.  La liste des
 présentations déjà prévues est la suivante :
 
-
 + [[#lirmm][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
 + [[#dpaca][On-the-fly laser-induced corruption of the firmware stored into the
   flash memory of a 32-bit microcontroller]] /Brice Colombier (CEA)/,
@@ -32,6 +31,7 @@ présentations déjà prévues est la suivante :
 + [[#cesti][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
                  /David Féliot (CEA Grenoble)/
 + [[#lip6][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
++ [[#cea-dsys][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
@@ -108,5 +108,14 @@ Résumé à venir.
     :END:
 
 /Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
+
+Résumé à venir.
+
+*** IntrinSec: an intrinsically secure RISC V processor
+    :PROPERTIES:
+    :CUSTOM_ID: cea-dsys
+    :END:
+
+/Olivier Savry (CEA)/
 
 Résumé à venir.

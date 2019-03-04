@@ -10,7 +10,7 @@
 | 10:45 | 11:05 |   | Brice Colombier (CEA)                                | OK     |   | *TODO* |
 | 11:05 | 11:25 |   | Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI) | *TODO* |   | *TODO* |
 | 11:25 | 11:45 |   | Vincent Béroulle (LCIS Valence)                      | *TODO* |   | *TODO* |
-| 11:45 | 12:05 |   | Olivier Savry (CEA)                                  | *TODO* |   | *TODO* |
+| 11:45 | 12:05 |   | Olivier Savry (CEA)                                  | OK     |   | *TODO* |
 | 12:05 | 12:20 |   | Q&R session 2                                        |        |   |        |
 |-------+-------+---+------------------------------------------------------+--------+---+--------|
 | 12:20 | 13:45 |   | DÉJEUNER                                             |        |   |        |
