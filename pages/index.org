@@ -56,7 +56,7 @@ Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr][jaif2019@saxifrage.saclay.ce
 
 ** Soutien
 
-Cette journée est financée par :
+Cette journée est organisée avec le soutien financier de :
 
 + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
 + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
