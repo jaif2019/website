@@ -16,26 +16,26 @@ scientifiques s'étalera de 10h00 à 16h45.
 Le programme de la journée est en construction.  La liste des
 présentations déjà prévues est la suivante :
 
-+ [[#lirmm][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
-+ [[#dpaca][On-the-fly laser-induced corruption of the firmware stored into the
++ [[#maurinne][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
++ [[#colombier][On-the-fly laser-induced corruption of the firmware stored into the
   flash memory of a 32-bit microcontroller]] /Brice Colombier (CEA)/,
   /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain
   Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger
   (Telecom ParisTech)/
-+ [[#inria][Injection de fautes sur SoC (titre à préciser)]] /Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
-+ [[#lcis][Analyse de fautes au niveau RTL  ]] /Vincent Béroulle (LCIS Valence)/
-+ [[#nxp][Fault attacks: What practical exploits on IoT?]]
++ [[#trouchkine][Injection de fautes sur SoC (titre à préciser)]] /Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
++ [[#beroulle][Analyse de fautes au niveau RTL  ]] /Vincent Béroulle (LCIS Valence)/
++ [[#velillard][Fault attacks: What practical exploits on IoT?]]
    /Éric Vétillard (NXP)/
-+ [[#stm][Compilation de contre-mesures]] /François de Ferrière (STMicroelectronics)/
-+ [[#invia][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
-+ [[#cea-feliot][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
++ [[#deferriere][Compilation de contre-mesures]] /François de Ferrière (STMicroelectronics)/
++ [[#proy][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
++ [[#feliot][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
                  /David Féliot (CEA Grenoble)/
-+ [[#lip6][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
-+ [[#cea-dsys][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
++ [[#brejon][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
++ [[#savry][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
-   :CUSTOM_ID: nxp
+   :CUSTOM_ID: velillard
    :END:
 
 /Éric Vétillard (NXP)/
@@ -44,7 +44,7 @@ Résumé à venir.
 
 *** Injection EM (titre à préciser)
     :PROPERTIES:
-    :CUSTOM_ID: lirmm
+    :CUSTOM_ID: maurinne
     :END:
 
 /Philippe Maurinne (LIRMM)/
@@ -53,7 +53,7 @@ Résumé à venir.
 
 *** Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code
     :PROPERTIES:
-    :CUSTOM_ID: cea-feliot
+    :CUSTOM_ID: feliot
     :END:
 
 /David Féliot (CEA Grenoble)/
@@ -63,7 +63,7 @@ L'évaluation de la résistance aux attaques d'un produit de type carte à puce 
 
 *** On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller
     :PROPERTIES:
-    :CUSTOM_ID: dpaca
+    :CUSTOM_ID: colombier
     :END:
 
 /Brice Colombier (CEA)/, /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger (Telecom ParisTech)/
@@ -72,7 +72,7 @@ Résumé à venir.
 
 *** Sécurisation automatisée des boucles à la compilation
     :PROPERTIES:
-    :CUSTOM_ID: invia
+    :CUSTOM_ID: proy
     :END:
 
 /Julien Proy (INVIA)/
@@ -81,21 +81,21 @@ Résumé à venir.
 
 *** Compilation de contre-mesures
     :PROPERTIES:
-    :CUSTOM_ID: stm
+    :CUSTOM_ID: deferriere
     :END:
 
 /François de Ferrière (STMicroelectronics Grenoble)/
 
 *** Analyse de robustesse de codes binaires
     :PROPERTIES:
-    :CUSTOM_ID: lip6
+    :CUSTOM_ID: brejon
     :END:
 
 /Jean-Baptiste Bréjon (LIP6)/
 
 *** Analyse de fautes au niveau RTL
     :PROPERTIES:
-    :CUSTOM_ID: lcis
+    :CUSTOM_ID: beroulle
     :END:
 
 /Vincent Béroulle (LCIS Valence)/
@@ -104,7 +104,7 @@ Résumé à venir.
 
 *** Injection de fautes sur SoC (titre à venir)
     :PROPERTIES:
-    :CUSTOM_ID: inria
+    :CUSTOM_ID: trouchkine
     :END:
 
 /Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
@@ -113,7 +113,7 @@ Résumé à venir.
 
 *** IntrinSec: an intrinsically secure RISC V processor
     :PROPERTIES:
-    :CUSTOM_ID: cea-dsys
+    :CUSTOM_ID: savry
     :END:
 
 /Olivier Savry (CEA)/
