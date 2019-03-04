@@ -27,7 +27,7 @@
 | 15:25 | 15:35 |   | pause                                                |        |   |        |
 |-------+-------+---+------------------------------------------------------+--------+---+--------|
 | 15:35 | 15:35 |   | Session #5                                           |        |   |        |
-| 15:35 | 15:55 |   | David Féliot (CEA, CESTI Grenoble)                   | OK     |   | OK     |
+| 15:35 | 15:55 |   | David Féliot (CEA Grenoble)                          | OK     |   | OK     |
 | 15:55 | 16:15 |   | Jean-Baptiste Bréjon (LIP6)                          | *TODO* |   | *TODO* |
 | 16:15 | 16:35 |   | *CRENEAU VACANT*                                     |        |   |        |
 | 16:35 | 16:45 |   | Q&R session 5                                        |        |   |        |

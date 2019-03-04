@@ -30,7 +30,7 @@ présentations déjà prévues est la suivante :
 + [[#stm][Compilation de contre-mesures]] /François de Ferrière (STMicroelectronics)/
 + [[#cesti][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
 + [[#cesti][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
-                 /David Féliot (CEA, CESTI Grenoble)/
+                 /David Féliot (CEA Grenoble)/
 + [[#lip6][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
 
 *** Fault attacks: What practical exploits on IoT?
@@ -56,7 +56,7 @@ Résumé à venir.
     :CUSTOM_ID: cesti
     :END:
 
-/David Féliot (CEA, CESTI Grenoble)/
+/David Féliot (CEA Grenoble)/
 
 Résumé:
 L'évaluation de la résistance aux attaques d'un produit de type carte à puce comprend une revue de code du logiciel embarqué. L'objectif de cette revue est de détecter dans le code source des vulnérabilités qui peuvent être exploitées par un attaquant pour forcer ou contourner des fonctions de sécurité, par exemple une fonction de contrôle d'accès. L'exposé présentera d'une part les spécificités et les contraintes liées à l'activité d'évaluation sécuritaire, et d'autre part l'apport des techniques d'analyse statique pour augmenter la fiabilité et l'efficacité de la revue de code.
