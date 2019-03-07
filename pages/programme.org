@@ -13,30 +13,53 @@ session.
 La journée débutera à 09h30, et le calendrier des présentations et des discussions
 scientifiques s'étalera de 10h00 à 16h45.
 
-Le programme de la journée est en construction.  La liste des
-présentations déjà prévues est la suivante :
+Voici le programme préliminaire de la journée :
 
-+ [[#maurinne][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
-+ [[#colombier][On-the-fly laser-induced corruption of the firmware stored into the
-  flash memory of a 32-bit microcontroller]] /Brice Colombier (CEA)/,
-  /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain
-  Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger
-  (Telecom ParisTech)/
-+ [[#trouchkine][Injection de fautes sur SoC (titre à préciser)]] /Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
-+ [[#beroulle][Analyse de fautes au niveau RTL  ]] /Vincent Béroulle (LCIS Valence)/
-+ [[#velillard][Fault attacks: What practical exploits on IoT?]]
-   /Éric Vétillard (NXP)/
-+ [[#deferriere][Compilation de contre-mesures]] /François de Ferrière (STMicroelectronics)/
-+ [[#proy][Sécurisation automatisée des boucles à la compilation]] /Julien Proy (INVIA)/
-+ [[#feliot][Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code]]
-                 /David Féliot (CEA Grenoble)/
-+ [[#brejon][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
-+ [[#savry][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
-+ [[#potet][Projet CLAPs: présentation du projet et résultats préliminaires]] /Marie-Laure Potet (VERIMAG)/
+| 09:30 |   | 10:00 |   | Accueil des participants autour d’un café                     |
+| 10:00 |   | 10:10 |   | Introduction à la journée                                     |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 10:10 |   | 11:25 |   | *Session #1. Injection de fautes*                             |
+|       |   |       |   | + [[#maurinne][Philippe Maurinne (LIRMM)]]                                   |
+|       |   |       |   | + [[#colombier][Brice Colombier (CEA)]]                                       |
+|       |   |       |   | + [[#trouchkine][Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI)]]        |
+|       |   |       |   | + Q&R                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 11:25 |   | 11:40 |   | Pause                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 11:40 |   | 12:30 |   | *Session #2. Architectures matérielles robustes*              |
+|       |   |       |   | + [[#beroulle][Vincent Béroulle (LCIS Valence)]]                             |
+|       |   |       |   | + [[#savry][Olivier Savry (CEA)]]                                         |
+|       |   |       |   | + Q&R                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 12:30 |   | 13:45 |   | Déjeuner                                                      |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
+|       |   |       |   | + [[#vetillard][Éric Vétillard (NXP)]]                                        |
+|       |   |       |   | + [[#potet][Marie-Laure Potet (VERIMAG)]]                                 |
+|       |   |       |   | + Q&R                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 14:35 |   | 14:50 |   | Pause                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 14:50 |   | 15:40 |   | *Session #4. Protections logicielles*                         |
+|       |   |       |   | + [[#deferriere][François de Ferrière (STMicroelectronics)]]                   |
+|       |   |       |   | + [[#proy][Julien Proy (INVIA)]]                                         |
+|       |   |       |   | + Q&R                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 15:40 |   | 15:55 |   | Pause                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 15:55 |   | 16:45 |   | *Session #5. Analyse de code*                                 |
+|       |   |       |   | + [[#feliot][David Féliot (CEA Grenoble)]]                                 |
+|       |   |       |   | + [[#brejon][Jean-Baptiste Bréjon (LIP6)]]                                 |
+|       |   |       |   | + Q&R                                                         |
+|-------+---+-------+---+---------------------------------------------------------------|
+| 16:45 |   | 16:50 |   | Conclusion de la journée                                      |
+|-------+---+-------+---+---------------------------------------------------------------|
+
+** Présentations
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
-   :CUSTOM_ID: velillard
+   :CUSTOM_ID: vetillard
    :END:
 
 /Éric Vétillard (NXP)/
