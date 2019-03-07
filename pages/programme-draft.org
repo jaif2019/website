@@ -21,7 +21,7 @@
 | 14:15 | 14:15 |   | Session #4                                           |        |   |        |
 | 14:15 | 14:35 |   | François de Ferrière (STMicroelectronics)            | *TODO* |   | *TODO* |
 | 14:35 | 14:55 |   | Julien Proy (INVIA)                                  | *TODO* |   | *TODO* |
-| 14:55 | 15:15 |   | Lionel Morel (CEA)                                   | *TODO* |   | *TODO* |
+| 14:55 | 15:15 |   | Marie-Laure Potet (VERIMAG)                          | *TODO* |   | *TODO* |
 | 15:15 | 15:25 |   | Q&R session 4                                        |        |   |        |
 |-------+-------+---+------------------------------------------------------+--------+---+--------|
 | 15:25 | 15:35 |   | pause                                                |        |   |        |

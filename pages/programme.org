@@ -17,6 +17,7 @@ Le programme de la journée est en construction.  La liste des
 présentations déjà prévues est la suivante :
 
 + [[#maurinne][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
+
 + [[#colombier][On-the-fly laser-induced corruption of the firmware stored into the
   flash memory of a 32-bit microcontroller]] /Brice Colombier (CEA)/,
   /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain
@@ -32,6 +33,7 @@ présentations déjà prévues est la suivante :
                  /David Féliot (CEA Grenoble)/
 + [[#brejon][Analyse de robustesse de codes binaires]] /Jean-Baptiste Bréjon (LIP6)/
 + [[#savry][IntrinSec: an intrinsically secure RISC V processor]] /Olivier Savry (CEA)/
++ [[#potet][Projet CLAPs: présentation du projet et résultats préliminaires]] /Marie-Laure Potet (VERIMAG)/
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
@@ -117,5 +119,14 @@ Résumé à venir.
     :END:
 
 /Olivier Savry (CEA)/
+
+Résumé à venir.
+
+*** Projet CLAPs: présentation du projet et résultats préliminaires
+    :PROPERTIES:
+    :CUSTOM_ID: potet
+    :END:
+
+/Marie-Laure Potet (VERIMAG)/
 
 Résumé à venir.
