@@ -17,7 +17,6 @@ Le programme de la journée est en construction.  La liste des
 présentations déjà prévues est la suivante :
 
 + [[#maurinne][Injection EM (titre à préciser)]] /Philippe Maurinne (LIRMM)/
-
 + [[#colombier][On-the-fly laser-induced corruption of the firmware stored into the
   flash memory of a 32-bit microcontroller]] /Brice Colombier (CEA)/,
   /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain
