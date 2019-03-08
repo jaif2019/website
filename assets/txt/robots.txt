@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://damien.courousse.fr/sitemap.xml
+Sitemap: http://jaif2019.github.io/sitemap.xml
