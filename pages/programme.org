@@ -22,35 +22,35 @@ Voici le programme préliminaire de la journée :
 |       |   |       |   | + [[#maurinne][Philippe Maurinne (LIRMM)]]                                   |
 |       |   |       |   | + [[#colombier][Brice Colombier (CEA)]]                                       |
 |       |   |       |   | + [[#trouchkine][Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI)]]        |
-|       |   |       |   | + Q&R                                                         |
+|       |   |       |   | + Discussion                                               |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:25 |   | 11:40 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:40 |   | 12:30 |   | *Session #2. Architectures matérielles robustes*              |
 |       |   |       |   | + [[#beroulle][Vincent Béroulle (LCIS Valence)]]                             |
 |       |   |       |   | + [[#savry][Olivier Savry (CEA)]]                                         |
-|       |   |       |   | + Q&R                                                         |
+|       |   |       |   | + Discussion                                               |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 12:30 |   | 13:45 |   | Déjeuner                                                      |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
 |       |   |       |   | + [[#vetillard][Éric Vétillard (NXP)]]                                        |
 |       |   |       |   | + [[#potet][Marie-Laure Potet (VERIMAG)]]                                 |
-|       |   |       |   | + Q&R                                                         |
+|       |   |       |   | + Discussion                                               |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 14:35 |   | 14:50 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 14:50 |   | 15:40 |   | *Session #4. Protections logicielles*                         |
 |       |   |       |   | + [[#deferriere][François de Ferrière (STMicroelectronics)]]                   |
 |       |   |       |   | + [[#proy][Julien Proy (INVIA)]]                                         |
-|       |   |       |   | + Q&R                                                         |
+|       |   |       |   | + Discussion                                               |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 15:40 |   | 15:55 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 15:55 |   | 16:45 |   | *Session #5. Analyse de code*                                 |
 |       |   |       |   | + [[#feliot][David Féliot (CEA Grenoble)]]                                 |
 |       |   |       |   | + [[#brejon][Jean-Baptiste Bréjon (LIP6)]]                                 |
-|       |   |       |   | + Q&R                                                         |
+|       |   |       |   | + Discussion                                               |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 16:45 |   | 16:50 |   | Conclusion de la journée                                      |
 |-------+---+-------+---+---------------------------------------------------------------|
