@@ -20,7 +20,7 @@ Voici le programme préliminaire de la journée :
 |-------+---+-------+---+---------------------------------------------------------------|
 | 10:10 |   | 11:25 |   | *Session #1. Injection de fautes*                             |
 |       |   |       |   | + [[#maurine][Philippe Maurine (LIRMM)]]                                    |
-|       |   |       |   | + [[#colombier][Brice Colombier (CEA)]]                                       |
+|       |   |       |   | + [[#colombier][Brice Colombier (Univ. Saint-Étienne)]]                       |
 |       |   |       |   | + [[#trouchkine][Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI)]]        |
 |       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
@@ -92,7 +92,8 @@ L'évaluation de la résistance aux attaques d'un produit de type carte à puce 
 
 /Brice Colombier (CEA)/, /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger (Telecom ParisTech)/
 
-Résumé à venir.
+Résumé:
+L'injection de faute laser est souvent considérée comme la technique d'injection de faute la plus efficace. En effet, elle offre la plus grande précision spatiale, permettant ainsi à l'attaquant d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise lors de l'attaque de cibles 8 bits n'est pas directement transférable à des microcontrôleurs 32 bits complexes, et ces attaques deviennent de plus en plus difficiles. Dans cette présentation, nous montrons que la mémoire Flash est une zone sensible à l'injection de fautes même sur des microcontrôleurs aux architectures avancées. Ces fautes ont lieu pendant la phase de lecture, et la donnée stockée n'est donc pas modifiée. Après une caractérisation des fautes réalisées et du modèle de faute associé, nous donnerons des exemples détaillés de corruption d'instructions au niveau bit et d'attaques sur des codes d'évaluation classiques. Nous proposerons finalement une hypothèse à propos des caractéristiques physiques de la micro-architecture qui permet d'expliquer le modèle de faute observé.
 
 *** Sécurisation automatisée des boucles à la compilation
     :PROPERTIES:
