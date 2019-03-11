@@ -19,38 +19,38 @@ Voici le programme préliminaire de la journée :
 | 10:00 |   | 10:10 |   | Introduction à la journée                                     |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 10:10 |   | 11:25 |   | *Session #1. Injection de fautes*                             |
-|       |   |       |   | + [[#maurinne][Philippe Maurinne (LIRMM)]]                                   |
+|       |   |       |   | + [[#maurine][Philippe Maurine (LIRMM)]]                                    |
 |       |   |       |   | + [[#colombier][Brice Colombier (CEA)]]                                       |
 |       |   |       |   | + [[#trouchkine][Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI)]]        |
-|       |   |       |   | + Discussion                                               |
+|       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:25 |   | 11:40 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:40 |   | 12:30 |   | *Session #2. Architectures matérielles robustes*              |
 |       |   |       |   | + [[#beroulle][Vincent Béroulle (LCIS Valence)]]                             |
 |       |   |       |   | + [[#savry][Olivier Savry (CEA)]]                                         |
-|       |   |       |   | + Discussion                                               |
+|       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 12:30 |   | 13:45 |   | Déjeuner                                                      |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
 |       |   |       |   | + [[#vetillard][Éric Vétillard (NXP)]]                                        |
 |       |   |       |   | + [[#potet][Marie-Laure Potet (VERIMAG)]]                                 |
-|       |   |       |   | + Discussion                                               |
+|       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 14:35 |   | 14:50 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 14:50 |   | 15:40 |   | *Session #4. Protections logicielles*                         |
 |       |   |       |   | + [[#deferriere][François de Ferrière (STMicroelectronics)]]                   |
 |       |   |       |   | + [[#proy][Julien Proy (INVIA)]]                                         |
-|       |   |       |   | + Discussion                                               |
+|       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 15:40 |   | 15:55 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 15:55 |   | 16:45 |   | *Session #5. Analyse de code*                                 |
 |       |   |       |   | + [[#feliot][David Féliot (CEA Grenoble)]]                                 |
 |       |   |       |   | + [[#brejon][Jean-Baptiste Bréjon (LIP6)]]                                 |
-|       |   |       |   | + Discussion                                               |
+|       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 16:45 |   | 16:50 |   | Conclusion de la journée                                      |
 |-------+---+-------+---+---------------------------------------------------------------|
@@ -66,12 +66,12 @@ Voici le programme préliminaire de la journée :
 
 Résumé à venir.
 
-*** Injection EM (titre à préciser)
+*** Injection de fautes par médium EM : modèle et implications
     :PROPERTIES:
-    :CUSTOM_ID: maurinne
+    :CUSTOM_ID: maurine
     :END:
 
-/Philippe Maurinne (LIRMM)/
+/Philippe Maurine (LIRMM)/
 
 Résumé à venir.
 
