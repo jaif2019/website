@@ -76,14 +76,38 @@ Résumé à venir.
 Résumé:
 L'injection de faute laser est souvent considérée comme la technique d'injection de faute la plus efficace. En effet, elle offre la plus grande précision spatiale, permettant ainsi à l'attaquant d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise lors de l'attaque de cibles 8 bits n'est pas directement transférable à des microcontrôleurs 32 bits complexes, et ces attaques deviennent de plus en plus difficiles. Dans cette présentation, nous montrons que la mémoire Flash est une zone sensible à l'injection de fautes même sur des microcontrôleurs aux architectures avancées. Ces fautes ont lieu pendant la phase de lecture, et la donnée stockée n'est donc pas modifiée. Après une caractérisation des fautes réalisées et du modèle de faute associé, nous donnerons des exemples détaillés de corruption d'instructions au niveau bit et d'attaques sur des codes d'évaluation classiques. Nous proposerons finalement une hypothèse à propos des caractéristiques physiques de la micro-architecture qui permet d'expliquer le modèle de faute observé.
 
-*** Injection de fautes sur SoC (titre à venir)
+*** How modern System-on-Chips are vulnerable to fault attacks
     :PROPERTIES:
     :CUSTOM_ID: trouchkine
     :END:
 
-/Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
 
-Résumé à venir.
+/Guillaume Bouffard (ANSSI)/, /Sébanjila Kevin Bukasa (INRIA)/,
+/Mathieu Escouteloup (INRIA)/, /Ronan Lashermes (INRIA)/, /Thomas
+Trouchkine (ANSSI)/
+
+Résumé:
+Electromagnetic fault injection (EMFI) is a well known technique to disturb the behavior of a chip and
+weaken its security. Yet these attacks are mostly done on simple
+microcontrollers since the fault effect is relatively simple and understood.
+
+Unlocking EMFI on modern System-on-Chips (SoCs), the fast and complex chips
+ubiquitous today, requires to understand the impact of the faults. In this
+paper we target the BCM2837 SoC, with four Cortex-A53 cores from ARM. We
+propose an experimental setup and a forensic process to create exploitable
+faults and assess their impact on the micro-architecture.
+
+The observed behaviors are radically different to what was previously obtained
+on microcontrollers. Subsystems (L1 caches, L2 cache, MMU) can be
+individually targeted leading to new fault models. We highlight the
+differences in the fault impact with or without an Operation System, therefore showing
+the importance of the software layers in the exploitation of a fault.
+
+The complexity and speed of a SoC does not protect them against hardware
+attackers, quite the contrary.
+
+We advocate for the design of secure generic cores with a stronger security
+model to run all security related code (which emcompass all priviledged code).
 
 *** Analyse de fautes au niveau RTL
     :PROPERTIES:
