@@ -57,6 +57,52 @@ Voici le programme préliminaire de la journée :
 
 ** Présentations
 
+*** Injection de fautes par médium EM : modèle et implications
+    :PROPERTIES:
+    :CUSTOM_ID: maurine
+    :END:
+
+/Philippe Maurine (LIRMM)/
+
+Résumé à venir.
+
+*** On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller
+    :PROPERTIES:
+    :CUSTOM_ID: colombier
+    :END:
+
+/Brice Colombier (CEA)/, /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger (Telecom ParisTech)/
+
+Résumé:
+L'injection de faute laser est souvent considérée comme la technique d'injection de faute la plus efficace. En effet, elle offre la plus grande précision spatiale, permettant ainsi à l'attaquant d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise lors de l'attaque de cibles 8 bits n'est pas directement transférable à des microcontrôleurs 32 bits complexes, et ces attaques deviennent de plus en plus difficiles. Dans cette présentation, nous montrons que la mémoire Flash est une zone sensible à l'injection de fautes même sur des microcontrôleurs aux architectures avancées. Ces fautes ont lieu pendant la phase de lecture, et la donnée stockée n'est donc pas modifiée. Après une caractérisation des fautes réalisées et du modèle de faute associé, nous donnerons des exemples détaillés de corruption d'instructions au niveau bit et d'attaques sur des codes d'évaluation classiques. Nous proposerons finalement une hypothèse à propos des caractéristiques physiques de la micro-architecture qui permet d'expliquer le modèle de faute observé.
+
+*** Injection de fautes sur SoC (titre à venir)
+    :PROPERTIES:
+    :CUSTOM_ID: trouchkine
+    :END:
+
+/Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
+
+Résumé à venir.
+
+*** Analyse de fautes au niveau RTL
+    :PROPERTIES:
+    :CUSTOM_ID: beroulle
+    :END:
+
+/Vincent Béroulle (LCIS Valence)/
+
+Résumé à venir.
+
+*** IntrinSec: an intrinsically secure RISC V processor
+    :PROPERTIES:
+    :CUSTOM_ID: savry
+    :END:
+
+/Olivier Savry (CEA)/
+
+Résumé à venir.
+
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
    :CUSTOM_ID: vetillard
@@ -66,12 +112,28 @@ Voici le programme préliminaire de la journée :
 
 Résumé à venir.
 
-*** Injection de fautes par médium EM : modèle et implications
+*** Projet CLAPs: présentation du projet et résultats préliminaires
     :PROPERTIES:
-    :CUSTOM_ID: maurine
+    :CUSTOM_ID: potet
     :END:
 
-/Philippe Maurine (LIRMM)/
+/Marie-Laure Potet (VERIMAG)/
+
+Résumé à venir.
+
+*** Compilation de contre-mesures
+    :PROPERTIES:
+    :CUSTOM_ID: deferriere
+    :END:
+
+/François de Ferrière (STMicroelectronics Grenoble)/
+
+*** Sécurisation automatisée des boucles à la compilation
+    :PROPERTIES:
+    :CUSTOM_ID: proy
+    :END:
+
+/Julien Proy (INVIA)/
 
 Résumé à venir.
 
@@ -85,71 +147,9 @@ Résumé à venir.
 Résumé:
 L'évaluation de la résistance aux attaques d'un produit de type carte à puce comprend une revue de code du logiciel embarqué. L'objectif de cette revue est de détecter dans le code source des vulnérabilités qui peuvent être exploitées par un attaquant pour forcer ou contourner des fonctions de sécurité, par exemple une fonction de contrôle d'accès. L'exposé présentera d'une part les spécificités et les contraintes liées à l'activité d'évaluation sécuritaire, et d'autre part l'apport des techniques d'analyse statique pour augmenter la fiabilité et l'efficacité de la revue de code.
 
-*** On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller
-    :PROPERTIES:
-    :CUSTOM_ID: colombier
-    :END:
-
-/Brice Colombier (CEA)/, /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger (Telecom ParisTech)/
-
-Résumé:
-L'injection de faute laser est souvent considérée comme la technique d'injection de faute la plus efficace. En effet, elle offre la plus grande précision spatiale, permettant ainsi à l'attaquant d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise lors de l'attaque de cibles 8 bits n'est pas directement transférable à des microcontrôleurs 32 bits complexes, et ces attaques deviennent de plus en plus difficiles. Dans cette présentation, nous montrons que la mémoire Flash est une zone sensible à l'injection de fautes même sur des microcontrôleurs aux architectures avancées. Ces fautes ont lieu pendant la phase de lecture, et la donnée stockée n'est donc pas modifiée. Après une caractérisation des fautes réalisées et du modèle de faute associé, nous donnerons des exemples détaillés de corruption d'instructions au niveau bit et d'attaques sur des codes d'évaluation classiques. Nous proposerons finalement une hypothèse à propos des caractéristiques physiques de la micro-architecture qui permet d'expliquer le modèle de faute observé.
-
-*** Sécurisation automatisée des boucles à la compilation
-    :PROPERTIES:
-    :CUSTOM_ID: proy
-    :END:
-
-/Julien Proy (INVIA)/
-
-Résumé à venir.
-
-*** Compilation de contre-mesures
-    :PROPERTIES:
-    :CUSTOM_ID: deferriere
-    :END:
-
-/François de Ferrière (STMicroelectronics Grenoble)/
-
 *** Analyse de robustesse de codes binaires
     :PROPERTIES:
     :CUSTOM_ID: brejon
     :END:
 
 /Jean-Baptiste Bréjon (LIP6)/
-
-*** Analyse de fautes au niveau RTL
-    :PROPERTIES:
-    :CUSTOM_ID: beroulle
-    :END:
-
-/Vincent Béroulle (LCIS Valence)/
-
-Résumé à venir.
-
-*** Injection de fautes sur SoC (titre à venir)
-    :PROPERTIES:
-    :CUSTOM_ID: trouchkine
-    :END:
-
-/Ronan Lashermes (INRIA)/ ou /Thomas Trouchkine (ANSSI)/
-
-Résumé à venir.
-
-*** IntrinSec: an intrinsically secure RISC V processor
-    :PROPERTIES:
-    :CUSTOM_ID: savry
-    :END:
-
-/Olivier Savry (CEA)/
-
-Résumé à venir.
-
-*** Projet CLAPs: présentation du projet et résultats préliminaires
-    :PROPERTIES:
-    :CUSTOM_ID: potet
-    :END:
-
-/Marie-Laure Potet (VERIMAG)/
-
-Résumé à venir.
