@@ -9,7 +9,7 @@ Jeudi 23 mai 2019, Minatec, Grenoble
 
 ** Description
 
-Cette journée s’inscrit dans la suite de la journée [[https://www-verimag.imag.fr/~potet/Sertif/pages/workshop.html][SERTIF]] organisée
+Cette journée s’inscrit dans la suite de la journée [[https://lazart.gricad-pages.univ-grenoble-alpes.fr/sertif/pages/workshop.html][SERTIF]] organisée
 en 2016 à Grenoble,
 puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
 
