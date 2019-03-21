@@ -21,7 +21,7 @@ Voici le programme préliminaire de la journée :
 | 10:10 |   | 11:25 |   | *Session #1. Injection de fautes*                             |
 |       |   |       |   | + [[#maurine][Philippe Maurine (LIRMM)]]                                    |
 |       |   |       |   | + [[#colombier][Brice Colombier (Univ. Saint-Étienne)]]                       |
-|       |   |       |   | + [[#trouchkine][Ronan Lashermes (INRIA) ou Thomas Trouchkine (ANSSI)]]        |
+|       |   |       |   | + [[#lashermes][Ronan Lashermes (INRIA) and Thomas Trouchkine (ANSSI)]]       |
 |       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:25 |   | 11:40 |   | Pause                                                         |
@@ -78,7 +78,7 @@ L'injection de faute laser est souvent considérée comme la technique d'injecti
 
 *** How modern System-on-Chips are vulnerable to fault attacks
     :PROPERTIES:
-    :CUSTOM_ID: trouchkine
+    :CUSTOM_ID: lashermes
     :END:
 
 
