@@ -73,8 +73,22 @@ Résumé à venir.
 
 /Brice Colombier (CEA)/, /Alexandre Menu (EMSE)/, /Jean-Max Dutertre (EMSE)/, /Pierre-Alain Moëllic (CEA)/, /Jean-Baptiste Rigaud (EMSE)/, /Jean-Luc Danger (Telecom ParisTech)/
 
-Résumé:
-L'injection de faute laser est souvent considérée comme la technique d'injection de faute la plus efficace. En effet, elle offre la plus grande précision spatiale, permettant ainsi à l'attaquant d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise lors de l'attaque de cibles 8 bits n'est pas directement transférable à des microcontrôleurs 32 bits complexes, et ces attaques deviennent de plus en plus difficiles. Dans cette présentation, nous montrons que la mémoire Flash est une zone sensible à l'injection de fautes même sur des microcontrôleurs aux architectures avancées. Ces fautes ont lieu pendant la phase de lecture, et la donnée stockée n'est donc pas modifiée. Après une caractérisation des fautes réalisées et du modèle de faute associé, nous donnerons des exemples détaillés de corruption d'instructions au niveau bit et d'attaques sur des codes d'évaluation classiques. Nous proposerons finalement une hypothèse à propos des caractéristiques physiques de la micro-architecture qui permet d'expliquer le modèle de faute observé.
+ L'injection de faute laser est souvent considérée comme la
+technique d'injection de faute la plus efficace. En effet, elle offre
+la plus grande précision spatiale, permettant ainsi à l'attaquant
+d'induire des fautes au niveau bit. Néanmoins, l'expérience acquise
+lors de l'attaque de cibles 8 bits n'est pas directement transférable
+à des microcontrôleurs 32 bits complexes, et ces attaques deviennent
+de plus en plus difficiles. Dans cette présentation, nous montrons que
+la mémoire Flash est une zone sensible à l'injection de fautes même
+sur des microcontrôleurs aux architectures avancées. Ces fautes ont
+lieu pendant la phase de lecture, et la donnée stockée n'est donc pas
+modifiée. Après une caractérisation des fautes réalisées et du modèle
+de faute associé, nous donnerons des exemples détaillés de corruption
+d'instructions au niveau bit et d'attaques sur des codes d'évaluation
+classiques. Nous proposerons finalement une hypothèse à propos des
+caractéristiques physiques de la micro-architecture qui permet
+d'expliquer le modèle de faute observé.
 
 *** How modern System-on-Chips are vulnerable to fault attacks
     :PROPERTIES:
@@ -86,7 +100,6 @@ L'injection de faute laser est souvent considérée comme la technique d'injecti
 /Mathieu Escouteloup (INRIA)/, /Ronan Lashermes (INRIA)/, /Thomas
 Trouchkine (ANSSI)/
 
-Résumé:
 Electromagnetic fault injection (EMFI) is a well known technique to disturb the behavior of a chip and
 weaken its security. Yet these attacks are mostly done on simple
 microcontrollers since the fault effect is relatively simple and understood.
@@ -116,8 +129,7 @@ model to run all security related code (which emcompass all priviledged code).
 
 /Vincent Béroulle (LCIS Valence)/
 
-Résumé:
- à venir.
+Résumé à venir.
 
 *** IntrinSec: an intrinsically secure RISC V processor
     :PROPERTIES:
@@ -126,8 +138,7 @@ Résumé:
 
 /Olivier Savry (CEA)/
 
-Résumé:
- à venir.
+Résumé à venir.
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
@@ -136,8 +147,7 @@ Résumé:
 
 /Éric Vétillard (NXP)/
 
-Résumé:
- à venir.
+Résumé à venir.
 
 *** Projet CLAPs: présentation du projet et résultats préliminaires
     :PROPERTIES:
@@ -146,8 +156,7 @@ Résumé:
 
 /Marie-Laure Potet (VERIMAG)/
 
-Résumé:
- à venir.
+Résumé à venir.
 
 *** Compilation de contre-mesures
     :PROPERTIES:
@@ -155,8 +164,6 @@ Résumé:
     :END:
 
 /François de Ferrière (STMicroelectronics Grenoble)/
-
-Résumé:
 
 STMicroelectronics développe des outils de compilation basés sur la
 technologie LLVM pour ses cœurs propriétaires ainsi que pour le
@@ -182,8 +189,7 @@ contraintes industrielles de taille et de performances de ces applications.
 
 /Julien Proy (INVIA)/
 
-Résumé:
- à venir.
+Résumé à venir.
 
 *** Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code
     :PROPERTIES:
@@ -192,7 +198,6 @@ Résumé:
 
 /David Féliot (CEA Grenoble)/
 
-Résumé:
 L'évaluation de la résistance aux attaques d'un produit de type carte à puce comprend une revue de code du logiciel embarqué. L'objectif de cette revue est de détecter dans le code source des vulnérabilités qui peuvent être exploitées par un attaquant pour forcer ou contourner des fonctions de sécurité, par exemple une fonction de contrôle d'accès. L'exposé présentera d'une part les spécificités et les contraintes liées à l'activité d'évaluation sécuritaire, et d'autre part l'apport des techniques d'analyse statique pour augmenter la fiabilité et l'efficacité de la revue de code.
 
 *** Analyse de robustesse de codes binaires
@@ -201,3 +206,5 @@ L'évaluation de la résistance aux attaques d'un produit de type carte à puce 
     :END:
 
 /Jean-Baptiste Bréjon (LIP6)/
+
+Résumé à venir.
