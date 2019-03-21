@@ -116,7 +116,8 @@ model to run all security related code (which emcompass all priviledged code).
 
 /Vincent Béroulle (LCIS Valence)/
 
-Résumé à venir.
+Résumé:
+ à venir.
 
 *** IntrinSec: an intrinsically secure RISC V processor
     :PROPERTIES:
@@ -125,7 +126,8 @@ Résumé à venir.
 
 /Olivier Savry (CEA)/
 
-Résumé à venir.
+Résumé:
+ à venir.
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
@@ -134,7 +136,8 @@ Résumé à venir.
 
 /Éric Vétillard (NXP)/
 
-Résumé à venir.
+Résumé:
+ à venir.
 
 *** Projet CLAPs: présentation du projet et résultats préliminaires
     :PROPERTIES:
@@ -143,7 +146,8 @@ Résumé à venir.
 
 /Marie-Laure Potet (VERIMAG)/
 
-Résumé à venir.
+Résumé:
+ à venir.
 
 *** Compilation de contre-mesures
     :PROPERTIES:
@@ -152,6 +156,25 @@ Résumé à venir.
 
 /François de Ferrière (STMicroelectronics Grenoble)/
 
+Résumé:
+
+STMicroelectronics développe des outils de compilation basés sur la
+technologie LLVM pour ses cœurs propriétaires ainsi que pour le
+processeur ARM.
+
+Afin d'ajouter des contre-mesures logicielles de résistance aux attaques
+par injection de fautes, qui puissent être à la fois non triviales,
+fiables et rapides à implémenter dans les produits développés par
+STMicroelectronics, nous avons implémenté des techniques de génération
+de code pour la cybersécurité dans notre compilateur LLVM de production.
+
+Nous présentons dans cet exposé ces techniques et transformations que
+nous avons implémentées. Nous montrons comment elles contribuent au
+renforcement de la protection des applications. Nous détaillons
+également comment ces techniques peuvent être appliquées localement à
+certaines régions critiques d'une application afin de satisfaire les
+contraintes industrielles de taille et de performances de ces applications.
+
 *** Sécurisation automatisée des boucles à la compilation
     :PROPERTIES:
     :CUSTOM_ID: proy
@@ -159,7 +182,8 @@ Résumé à venir.
 
 /Julien Proy (INVIA)/
 
-Résumé à venir.
+Résumé:
+ à venir.
 
 *** Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code
     :PROPERTIES:
