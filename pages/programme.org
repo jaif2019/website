@@ -35,7 +35,7 @@ Voici le programme préliminaire de la journée :
 |-------+---+-------+---+---------------------------------------------------------------|
 | 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
 |       |   |       |   | + [[#vetillard][Éric Vétillard (NXP)]]                                        |
-|       |   |       |   | + [[#potet][Marie-Laure Potet (VERIMAG)]]                                 |
+|       |   |       |   | + [[#potet][Laurent Mounier et Marie-Laure Potet (VERIMAG)]]              |
 |       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 14:35 |   | 14:50 |   | Pause                                                         |
@@ -149,14 +149,30 @@ Résumé à venir.
 
 Résumé à venir.
 
-*** Projet CLAPs: présentation du projet et résultats préliminaires
+*** Concevoir des applications robustes à l'injection de fautes (projet CLAPs)
     :PROPERTIES:
     :CUSTOM_ID: potet
     :END:
 
-/Marie-Laure Potet (VERIMAG)/
+/Laurent Mounier et Marie-Laure Potet (VERIMAG)/
 
-Résumé à venir.
+Concevoir des applications robustes à l'injection de fautes est un
+processus complexe qui nécessite de prendre en compte les scénarios
+d'attaques (que veut-on protéger), l'effet des attaques (le modèle de
+fautes) et ceci afin de mettre en place les contre-mesures
+adéquates. Ce processus est rendu encore plus complexe dans le cadre
+du multi-fautes, qui permet en plus de modifier le comportement des
+contre-mesures.
+
+Le projet CLAPs s'intéresse d'une part à proposer des analyses du code
+source, au code binaire jusqu'aux attaques physiques, afin de pouvoir
+rendre robuste une implémentation et d''autre part à proposer des
+contre-mesures automatiques permettant de se prémunir contre des
+modèles de fautes déterminés.
+
+Nous illustrerons ces démarches sur les études de cas du projet CLAPs
+issues du benchmark FISSC et sur une application interne au projet, un
+Firmware Update.
 
 *** Compilation de contre-mesures
     :PROPERTIES:
