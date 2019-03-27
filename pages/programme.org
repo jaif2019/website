@@ -138,7 +138,15 @@ Résumé à venir.
 
 /Olivier Savry (CEA)/
 
-Résumé à venir.
+Dans le cadre du projet Nanotrust soutenu par l’IRT Nanoelec nous
+développons une gamme de processeurs intrinsèquement sécurisés pour
+les CPS. Ces processeurs sont capables d’exécuter du code chiffré où
+chaque instruction est également associée à un MAC qui permet une
+vérification de son intégrité au runtime. Cette structure permet
+également la mise en place aisée d’un CFI intrinsèque avec un chaînage
+cryptographique des Basic Blocks et de protection contre les stack
+overflows. Toute déviation du graphe de flot de contrôle est ainsi
+détecter par une erreur à la vérification des MAC.
 
 *** Fault attacks: What practical exploits on IoT?
     :PROPERTIES:
