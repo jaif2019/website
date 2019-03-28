@@ -64,7 +64,15 @@ Voici le programme préliminaire de la journée :
 
 /Philippe Maurine (LIRMM)/
 
-Résumé à venir.
+La première publication traitant d’attaques par faute(s) conduites par
+médium électromagnétique a été publiée en 2002. Plus de 15 ans après,
+le mécanisme par lequel ces fautes apparaissent n’est toujours pas
+clairement établi. Dans ce contexte, cette présentation s’attachera à
+expliquer finement l’apparition des fautes et ce en partant des
+principes de l’induction électromagnétique jusqu’au tréfonds des
+circuits intégrés. Enfin, les enseignements de ce modèle seront tirés
+tant pour établir des pistes de contremesures que des moyens
+d’améliorations des plateformes d’injection EM.
 
 *** On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller
     :PROPERTIES:
