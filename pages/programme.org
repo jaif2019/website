@@ -221,7 +221,13 @@ contraintes industrielles de taille et de performances de ces applications.
 
 /Julien Proy (INVIA)/
 
-Résumé à venir.
+La sécurisation des systèmes embarqués est un enjeu majeur dans l'industrie.
+Le déploiement de contre-mesures logicielles est encore largement réalisé de façon manuelle, induisant des coûts et temps de développement importants.
+Afin de réduire ces coûts, les industriels sont à la recherche d'approches automatisées, nécessitant des schémas de protection génériques.
+
+Nous présentons dans cet exposé une contre-mesure dédiée à la sécurisation des boucles applicable automatiquement à la compilation.
+Une implémentation dans le compilateur LLVM ainsi qu'une étude des interactions avec les optimisations du compilateur sont également détaillées.
+Enfin, nous montrons les résultats associés provenant de simulations et de campagnes d'attaques physiques.
 
 *** Techniques d'analyse statique pour détecter des vulnérabilités sécuritaires lors d'une revue de code
     :PROPERTIES:
