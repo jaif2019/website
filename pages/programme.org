@@ -103,7 +103,6 @@ d'expliquer le modèle de faute observé.
     :CUSTOM_ID: lashermes
     :END:
 
-
 /Guillaume Bouffard (ANSSI)/, /Sébanjila Kevin Bukasa (INRIA)/,
 /Mathieu Escouteloup (INRIA)/, /Ronan Lashermes (INRIA)/, /Thomas
 Trouchkine (ANSSI)/
@@ -238,11 +237,30 @@ Enfin, nous montrons les résultats associés provenant de simulations et de cam
 
 L'évaluation de la résistance aux attaques d'un produit de type carte à puce comprend une revue de code du logiciel embarqué. L'objectif de cette revue est de détecter dans le code source des vulnérabilités qui peuvent être exploitées par un attaquant pour forcer ou contourner des fonctions de sécurité, par exemple une fonction de contrôle d'accès. L'exposé présentera d'une part les spécificités et les contraintes liées à l'activité d'évaluation sécuritaire, et d'autre part l'apport des techniques d'analyse statique pour augmenter la fiabilité et l'efficacité de la revue de code.
 
-*** Analyse de robustesse de codes binaires
+*** Évaluation sécuritaire de code binaire soumis à des attaques en faute
     :PROPERTIES:
     :CUSTOM_ID: brejon
     :END:
 
 /Jean-Baptiste Bréjon (LIP6)/
 
-Résumé à venir.
+Les attaques en fautes constituent une menace sérieuse pour les
+applications embarquées. Pour s’en prémunir, le code peut être
+renforcé par l’insertion de protections visant à détecter ou tolérer
+des attaques en faute et la robustesse obtenue doit être évaluée. Dans
+cet exposé, nous présenterons une approche, implémentée dans le
+framework RobustB, combinant des analyses statiques et dynamiques de
+code avec de la vérification formelle et un ensemble de métriques pour
+évaluer la robustesse d'un code binaire soumis à des attaques en
+faute. Notre approche modélise la recherche de vulnérabilités par des
+problèmes d'équivalence-checking résolus par un SMT sovler.
+
+RobustB permet d’analyser la robustesse de code après compilation, et
+à l’aide des métriques, il permet de comparer des codes intégrant
+différentes protections et/ou compilés avec différents compilateurs
+et/ou différents niveaux d’optimisation. En particulier, nous
+illustrerons l’apport de notre approche et de ses métriques à
+l'analyse de vulnérabilités, l'analyse des effets des optimisations de
+code de compilateurs ainsi qu'à la comparaison de différentes
+protections combinées ou non sur des codes protégés au niveau du code
+source.
