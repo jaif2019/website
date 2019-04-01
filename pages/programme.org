@@ -27,7 +27,7 @@ Voici le programme préliminaire de la journée :
 | 11:25 |   | 11:40 |   | Pause                                                         |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 11:40 |   | 12:30 |   | *Session #2. Architectures matérielles robustes*              |
-|       |   |       |   | + [[#beroulle][Vincent Béroulle (LCIS Valence)]]                             |
+|       |   |       |   | + [[#beroulle][Vincent Beroulle (LCIS Valence)]]                             |
 |       |   |       |   | + [[#savry][Olivier Savry (CEA)]]                                         |
 |       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
@@ -134,9 +134,26 @@ model to run all security related code (which emcompass all priviledged code).
     :CUSTOM_ID: beroulle
     :END:
 
-/Vincent Béroulle (LCIS Valence)/
+/Vincent Beroulle (LCIS Valence)/
 
-Résumé à venir.
+Dans cet exposé, nous présenterons une méthode d’évaluation et
+d’amélioration des contremesures matérielles et logicielles pour
+protéger l’exécution d’un code sécurisé contre les attaques en fautes.
+
+Afin de se protéger contre les attaques en fautes, les développeurs
+utilisent souvent des contremesures logicielles. Mais ces
+contremesures ne protègent le code que contre les effets induits par
+les modèles de fautes logiciels (saut d’instruction, l’inversion de
+test...). Or, ces modèles de fautes ne prennent pas en compte
+l’implémentation matérielle des processeurs. En analysant la
+microarchitecture au niveau RTL des processeurs, il est possible de
+trouver des fautes matérielles qui créent des failles de
+sécurité. Nous donnerons des exemples de ce type de fautes en nous
+appuyant sur des codes sécurisés issus de FISSC et en utilisant la
+description RTL d’un processeur RISC-V. Nous montrerons notamment
+l’importance des registres cachés dans le pipeline du
+processeur. Finalement, nous proposerons des contremesures logicielles
+robustes contre ces attaques en faute.
 
 *** IntrinSec: an intrinsically secure RISC V processor
     :PROPERTIES:
