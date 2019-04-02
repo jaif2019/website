@@ -197,7 +197,7 @@ logiciels qui les composent.
     :CUSTOM_ID: potet
     :END:
 
-/Laurent Mounier et Marie-Laure Potet (VERIMAG)/
+/Laurent Mounier/ et /Marie-Laure Potet (VERIMAG)/
 
 Concevoir des applications robustes à l'injection de fautes est un
 processus complexe qui nécessite de prendre en compte les scénarios
