@@ -274,7 +274,10 @@ L'évaluation de la résistance aux attaques d'un produit de type carte à puce 
     :CUSTOM_ID: brejon
     :END:
 
-/Jean-Baptiste Bréjon (LIP6)/
+/Jean-Baptiste Bréjon (LIP6)/,
+/Karine Heydemann (Univ. Sorbonne, Paris)/,
+/Emmanuelle Encrenaz (Univ. Sorbonne, Paris)/,
+/Quentin Meunier (Univ. Sorbonne, Paris)/
 
 Les attaques en fautes constituent une menace sérieuse pour les
 applications embarquées. Pour s’en prémunir, le code peut être
