@@ -246,7 +246,11 @@ contraintes industrielles de taille et de performances de ces applications.
     :CUSTOM_ID: proy
     :END:
 
-/Julien Proy (INVIA)/
+/Julien Proy (INVIA)/,
+/Karine Heydemann (Univ. Sorbonne, Paris)/,
+/Alexandre Berzati (INVIA)/,
+/Albert Cohen (Google)/
+
 
 La sécurisation des systèmes embarqués est un enjeu majeur dans l'industrie.
 Le déploiement de contre-mesures logicielles est encore largement réalisé de façon manuelle, induisant des coûts et temps de développement importants.
