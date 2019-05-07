@@ -13,7 +13,7 @@ session.
 La journée débutera à 09h30, et le calendrier des présentations et des discussions
 scientifiques s'étalera de 10h00 à 16h45.
 
-Voici le programme préliminaire de la journée :
+Voici le programme de la journée :
 
 | 09:30 |   | 10:00 |   | Accueil des participants autour d’un café                     |
 | 10:00 |   | 10:10 |   | Introduction à la journée                                     |
