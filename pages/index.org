@@ -64,7 +64,7 @@ Cette journée est organisée avec le soutien financier de :
 
 Cette journée thématique est associée au GT Sécurité des Systèmes
 Matériels, qui est commun au [[http://www.gdr-soc.cnrs.fr][GdR SOC2]] et au
-[[https://gdr-securite.irisa.fr][pré-GdR Sécurité Informatique]].
+[[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
 
 #+BEGIN_EXPORT html
 <p>
