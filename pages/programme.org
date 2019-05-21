@@ -34,7 +34,7 @@ Voici le programme de la journée :
 | 12:30 |   | 13:45 |   | Déjeuner                                                      |
 |-------+---+-------+---+---------------------------------------------------------------|
 | 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
-|       |   |       |   | + [[#vetillard][Éric Vétillard (NXP)]]                                        |
+|       |   |       |   | + [[#bouffard][Guillaume Bouffard (ANSSI)]]                                                                                                                           |
 |       |   |       |   | + [[#potet][Laurent Mounier et Marie-Laure Potet (VERIMAG)]]              |
 |       |   |       |   | + Discussion                                                  |
 |-------+---+-------+---+---------------------------------------------------------------|
@@ -172,25 +172,14 @@ cryptographique des Basic Blocks et de protection contre les stack
 overflows. Toute déviation du graphe de flot de contrôle est ainsi
 détecter par une erreur à la vérification des MAC.
 
-*** Fault attacks: What practical exploits on IoT?
+*** Certification et IoT
     :PROPERTIES:
-   :CUSTOM_ID: vetillard
-   :END:
+    :CUSTOM_ID: bouffard
+    :END:
 
-/Éric Vétillard (NXP)/
+/Guillaume Bouffard (ANSSI)/
 
-Alors que les objets connectés de l’IoT utilisent encore massivement
-des mots de passe non diversifiés, ces objets sont maintenant soumis à
-des attaques en faute, et certaines d’entre elles ne sont pas très
-difficiles ou coûteuses à implémenter. Dans ce contexte, il est
-souvent difficile d’établir des priorités entre les différentes
-attaques auxquelles ces objets sont soumis. Et dans le contexte d’une
-certification sécuritaire, la notation des attaques est
-difficile. Nous proposons ici de nous intéresser aux conditions
-d’exploitation des attaques, et en particulier des attaques en faute,
-pour aider à l’établissement de priorités dans le développement et
-l’évaluation d’objets connectés, ainsi que des composants matériels et
-logiciels qui les composent.
+Résumé à venir.
 
 *** Concevoir des applications robustes à l'injection de fautes (projet CLAPs)
     :PROPERTIES:
@@ -250,7 +239,6 @@ contraintes industrielles de taille et de performances de ces applications.
 /Karine Heydemann (Univ. Sorbonne, Paris)/,
 /Alexandre Berzati (INVIA)/,
 /Albert Cohen (Google)/
-
 
 La sécurisation des systèmes embarqués est un enjeu majeur dans l'industrie.
 Le déploiement de contre-mesures logicielles est encore largement réalisé de façon manuelle, induisant des coûts et temps de développement importants.
