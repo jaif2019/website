@@ -15,47 +15,35 @@ scientifiques s'étalera de 10h00 à 16h45.
 
 Voici le programme de la journée :
 
-| 09:30 |   | 10:00 |   | Accueil des participants autour d’un café                     |
-| 10:00 |   | 10:10 |   | Introduction à la journée                                     |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 10:10 |   | 11:25 |   | *Session #1. Injection de fautes*                             |
-|       |   |       |   | + [[#maurine][Philippe Maurine (LIRMM)]]                                    |
-|       |   |       |   | + [[#colombier][Brice Colombier (Univ. Saint-Étienne)]]                       |
-|       |   |       |   | + [[#lashermes][Ronan Lashermes (INRIA) and Thomas Trouchkine (ANSSI)]]       |
-|       |   |       |   | + Discussion                                                  |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 11:25 |   | 11:40 |   | Pause                                                         |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 11:40 |   | 12:30 |   | *Session #2. Architectures matérielles robustes*              |
-|       |   |       |   | + [[#beroulle][Vincent Beroulle (LCIS Valence)]]                             |
-|       |   |       |   | + [[#savry][Olivier Savry (CEA)]]                                         |
-|       |   |       |   | + Discussion                                                  |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 12:30 |   | 13:45 |   | Déjeuner                                                      |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 13:45 |   | 14:35 |   | *Session #3. Questions ouvertes sur la sécurité des systèmes* |
-|       |   |       |   | + [[#bouffard][Guillaume Bouffard (ANSSI)]]                                                                                                                           |
-|       |   |       |   | + [[#potet][Laurent Mounier et Marie-Laure Potet (VERIMAG)]]              |
-|       |   |       |   | + Discussion                                                  |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 14:35 |   | 14:50 |   | Pause                                                         |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 14:50 |   | 15:40 |   | *Session #4. Protections logicielles*                         |
-|       |   |       |   | + [[#deferriere][François de Ferrière (STMicroelectronics)]]                   |
-|       |   |       |   | + [[#proy][Julien Proy (INVIA)]]                                         |
-|       |   |       |   | + Discussion                                                  |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 15:40 |   | 15:55 |   | Pause                                                         |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 15:55 |   | 16:45 |   | *Session #5. Analyse de code*                                 |
-|       |   |       |   | + [[#feliot][David Féliot (CEA Grenoble)]]                                 |
-|       |   |       |   | + [[#brejon][Jean-Baptiste Bréjon (LIP6)]]                                 |
-|       |   |       |   | + Discussion                                                  |
-|-------+---+-------+---+---------------------------------------------------------------|
-| 16:45 |   | 16:50 |   | Conclusion de la journée                                      |
-|-------+---+-------+---+---------------------------------------------------------------|
++ 09:30−10:00   Accueil des participants autour d’un café
++ 10:00−10:10   Introduction à la journée
++ 10:10−11:25   *Session #1. Injection de fautes*
+  + [[#maurine][Philippe Maurine]] (LIRRM). /Injection de fautes par médium EM : modèle et implications./
+  + [[#colombier][Brice Colombier]] (Univ. Saint-Étienne). /On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller./
+  + [[#lashermes][Ronan Lashermes, Thomas Trouchkine]] (INRIA, ANSSI). /How modern System-on-Chips are vulnerable to fault attacks./
++ 11:25−11:40   Pause
++ 11:40−12:30   *Session #2. Architectures matérielles robustes*
+  + [[#beroulle][Vincent Beroulle]] (LCIS Valence). /Analyse de fautes au niveau RTL./
+  + [[#savry][Olivier Savry]] (CEA). /IntrinSec: an intrinsically secure RISC V processor./
+  + Discussion
++ 12:30−13:45   Déjeuner
++ 13:45−14:35   *Session #3. Questions ouvertes sur la sécurité des systèmes*
+  + [[#bouffard][Guillaume Bouffard]] (ANSSI). /Certification et IoT./
+  + [[#potet][Laurent Mounier et Marie-Laure Potet]] (VERIMAG). /Concevoir des applications robustes à l’injection de fautes (projet CLAPs)./
+  + Discussion
++ 14:35−14:50   Pause
++ 14:50−15:40   *Session #4. Protections logicielles*
+  + [[#deferriere][François de Ferrière]] (STMicroelectronics). /Compilation de contre-mesures./
+  + [[#proy][Julien Proy]] (INVIA). /Sécurisation automatisée des boucles à la compilation./
+  + Discussion
++ 15:40−15:55   Pause
++ 15:55−16:45   *Session #5. Analyse de code*
+  + [[#feliot][David Féliot]] (CEA Grenoble). /Techniques d’analyse statique pour détecter des vulnérabilités sécuritaires lors d’une revue de code./
+  + [[#brejon][Jean-Baptiste Bréjon]] (LIP6). /Évaluation sécuritaire de code binaire soumis à des attaques en faute./
+  + Discussion
++ 16:45−16:50   Conclusion de la journée
 
-** Présentations
+* Résumés des présentations
 
 *** Injection de fautes par médium EM : modèle et implications
     :PROPERTIES:
