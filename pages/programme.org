@@ -18,28 +18,40 @@ Voici le programme de la journée :
 + 09:30−10:00   Accueil des participants autour d’un café
 + 10:00−10:10   Introduction à la journée
 + 10:10−11:25   *Session #1. Injection de fautes*
-  + [[#maurine][Philippe Maurine]] (LIRRM). /Injection de fautes par médium EM : modèle et implications./
+  + [[#maurine][Philippe Maurine]] (LIRRM). /Injection de fautes par médium EM :
+    modèle et implications./
+    [[[file:media/JAIF2019%20P-Maurine.pdf][slides]]]
   + [[#colombier][Brice Colombier]] (Univ. Saint-Étienne). /On-the-fly laser-induced corruption of the firmware stored into the flash memory of a 32-bit microcontroller./
+    [[[file:media/JAIF2019%20B-Colombier.pdf][slides]]]
   + [[#lashermes][Ronan Lashermes, Thomas Trouchkine]] (INRIA, ANSSI). /How modern System-on-Chips are vulnerable to fault attacks./
+    [[[file:media/JAIF2019%20T-Trouchkine%20R-Lashermes.pdf][slides]]]
 + 11:25−11:40   Pause
 + 11:40−12:30   *Session #2. Architectures matérielles robustes*
   + [[#beroulle][Vincent Beroulle]] (LCIS Valence). /Analyse de fautes au niveau RTL./
+    [[[file:media/JAIF2019%20BEROULLE%2023%20mai%202019.pdf][slides]]]
   + [[#savry][Olivier Savry]] (CEA). /IntrinSec: an intrinsically secure RISC V processor./
+    [[[file:media/JAIF2019%20Olivier%20Savry.pptx][slides]]]
   + Discussion
 + 12:30−13:45   Déjeuner
 + 13:45−14:35   *Session #3. Questions ouvertes sur la sécurité des systèmes*
   + [[#bouffard][Guillaume Bouffard]] (ANSSI). /Certification et IoT./
-  + [[#potet][Laurent Mounier et Marie-Laure Potet]] (VERIMAG). /Concevoir des applications robustes à l’injection de fautes (projet CLAPs)./
+    [[[file:media/JAIF2019%20G-Bouffard%20certification%20et%20iot.pdf][slides]]]
+  + [[#mounier][Laurent Mounier]] (VERIMAG). /Concevoir des applications robustes à l’injection de fautes (projet CLAPs)./
+    [[[file:media/JAIF2019%20Laurent%20Mounier.pdf][slides]]]
   + Discussion
 + 14:35−14:50   Pause
 + 14:50−15:40   *Session #4. Protections logicielles*
   + [[#deferriere][François de Ferrière]] (STMicroelectronics). /Compilation de contre-mesures./
+    [[[file:media/JAIF2019%20F-deFerriere.pdf][slides]]]
   + [[#proy][Julien Proy]] (INVIA). /Sécurisation automatisée des boucles à la compilation./
+    [[[file:media/JAIF2019%20J-Proy.pdf][slides]]]
   + Discussion
 + 15:40−15:55   Pause
 + 15:55−16:45   *Session #5. Analyse de code*
   + [[#feliot][David Féliot]] (CEA Grenoble). /Techniques d’analyse statique pour détecter des vulnérabilités sécuritaires lors d’une revue de code./
+    [[[file:media/JAIF2019%C2%A0D-F%C3%A9liot.pdf][slides]]]
   + [[#brejon][Jean-Baptiste Bréjon]] (LIP6). /Évaluation sécuritaire de code binaire soumis à des attaques en faute./
+    [[[file:media/JAIF2019%20JB-Br%C3%A9jon.pdf][slides]]]
   + Discussion
 + 16:45−16:50   Conclusion de la journée
 
@@ -171,10 +183,10 @@ Résumé à venir.
 
 *** Concevoir des applications robustes à l'injection de fautes (projet CLAPs)
     :PROPERTIES:
-    :CUSTOM_ID: potet
+    :CUSTOM_ID: mounier
     :END:
 
-/Laurent Mounier/ et /Marie-Laure Potet (VERIMAG)/
+/Laurent Mounier (VERIMAG)/
 
 Concevoir des applications robustes à l'injection de fautes est un
 processus complexe qui nécessite de prendre en compte les scénarios
