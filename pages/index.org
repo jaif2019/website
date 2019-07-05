@@ -46,11 +46,11 @@ discussions.
 
 ** Comité d'organisation
 
-+   Damien Couroussé, CEA
 +   Guillaume Bouffard,  ANSSI
++   Damien Couroussé, CEA  (chair)
++   Sylvain Guilley, Telecom ParisTech / Secure-IC
 +   Karine Heydemann, Sorbonne Université / LIP6
 +   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
-+   Sylvain Guilley, Telecom ParisTech / Secure-IC
 
 Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr][jaif2019@saxifrage.saclay.cea.fr]]
 
