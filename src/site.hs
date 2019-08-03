@@ -92,7 +92,8 @@ builtPageCtx =  constField "siteroot" (feedRoot feedConfiguration)
              <> listField "entries" builtPageCtx (loadAll $ "pages/*" .||. "posts/*")
              <> dateField "date" "%A, %e %B %Y"
              <> dateField "isodate" "%F"
-             <> gitTag
+             <> gitDate
+             <> gitCommit
              <> lastGitModification
              <> defaultContext
 
@@ -107,18 +108,18 @@ postCtx =  dateField "date" "%B %e, %Y"
 -- Adapted from
 -- - Jorge.Israel.Peña at https://github.com/blaenk/blaenk.github.io
 -- - Miikka Koskinen at http://vapaus.org/text/hakyll-configuration.html
-gitTag :: Context String
-gitTag = field "gitinfo" $ \item -> do
+gitTagWith
+  :: String -- ^ the Context key
+  -> String -- ^ the git log format string
+  -> Context String
+gitTagWith key logFormat = field key $ \item -> do
   let fp = toFilePath $ itemIdentifier item
-      gitLog format =
-        readProcess "git" ["log", "-1", "HEAD", "--pretty=format:" ++ format, fp] ""
-  unsafeCompiler $ do
-    date    <- gitLog "%aD"
-    return $ concat
-             [ "<a href=https://github.com/jaif2019/jaif2019.github.io/commits/master>"
-             , "Page last modified " ++ date
-             , "</a>"
-             ]
+  unsafeCompiler $
+    readProcess "git" ["log", "-1", "HEAD", "--pretty=format:" ++ logFormat, fp] ""
+
+gitDate, gitCommit :: Context String
+gitDate = gitTagWith "gitdate" "%aD"
+gitCommit = gitTagWith "gitcommit" "%h"
 
 -- | Extract the last modification date from the git commits
 lastGitModification :: Context a
