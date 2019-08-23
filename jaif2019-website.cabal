@@ -7,8 +7,6 @@ executable site
   main-is:          site.hs
   hs-source-dirs:   src
   build-depends:    base == 4.*
-                  , blaze-html
-                  , filepath
                   , hakyll >= 4.6.9
                   , pandoc
                   , pandoc-citeproc
