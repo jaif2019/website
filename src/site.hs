@@ -56,7 +56,7 @@ main = do
 
     match expUImages $ do
       route $ gsubRoute "photos/" (const "")
-      compile copyFileCompiler
+      compile $ resizeImage 2048 2048
 
     -- create thumbnails
     match expUImages $ version "small" $ do
@@ -76,7 +76,7 @@ main = do
                        <> imageAlt "alt"
 
             photosCtx :: Context String
-            photosCtx = listField "photos" (imageCtx :: Context CopyFile)
+            photosCtx = listField "photos" (imageCtx :: Context ())
                         (loadAll ("images/photos/*" .&&. hasNoVersion))
                         <> listField "photos-small" (imageCtx :: Context ())
                            (loadAll ("images/photos/*" .&&. hasVersion "small"))
