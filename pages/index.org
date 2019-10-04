@@ -47,7 +47,7 @@ discussions.
 ** Comité d'organisation
 
 +   Guillaume Bouffard,  ANSSI
-+   Damien Couroussé, CEA  (chair)
++   Damien Couroussé, CEA  (local chair)
 +   Sylvain Guilley, Telecom ParisTech / Secure-IC
 +   Karine Heydemann, Sorbonne Université / LIP6
 +   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
