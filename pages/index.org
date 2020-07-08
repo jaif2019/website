@@ -2,6 +2,17 @@
 #+OPTIONS: toc:nil
 #+title: JAIF 2019
 
+
+
+#+begin_export html
+<center>
+<p class="alert" style="text-align:center; color: #3B31D9; line-height: 2em; font-size: x-large; font-weight: bold;">
+<a href="https://jaif2020.github.io"> Site web de l'édition 2020</a>
+</p>
+</center>
+#+end_export
+
+
 * Journée thématique sur les attaques par injection de fautes
 # : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
 
