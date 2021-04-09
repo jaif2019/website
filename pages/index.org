@@ -3,11 +3,12 @@
 #+title: JAIF 2019
 
 
-
 #+begin_export html
 <center>
 <p class="alert" style="text-align:center; color: #3B31D9; line-height: 2em; font-size: x-large; font-weight: bold;">
-<a href="https://jaif2020.github.io"> Site web de l'édition 2020</a>
+<a href="https://jaif.io"> Le site web de JAIF est maintenant ici : </a>
+<br>
+<a href="https://jaif.io"> https://jaif.io</a>
 </p>
 </center>
 #+end_export
